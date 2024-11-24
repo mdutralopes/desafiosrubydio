@@ -7,3 +7,4 @@ Repositório para os desafios de Ruby
 04 - pasta desafio-mercado = Criando uma Dinâmica de Mercado com POO em Ruby
 05 - pasta DesafioZap = verificando o número de zap através do Regexp
 06 - app estoque console
+07 - app estoque console POO
